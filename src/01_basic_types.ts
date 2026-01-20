@@ -182,11 +182,11 @@ let test3: Animal = {
     lang: 'ko',
 }
 test3.name;
-test3.age;
-test3.lang;
-let test4: Animal = {
-    name: '도우너',
-}
+// test3.age;
+// test3.lang;
+// let test4: Animal = {
+//     name: '도우너',
+// }
 
 // Intersection : 교집합
 // 복수의 타입을 조합하는 경우 `&`로 타입을 구분
